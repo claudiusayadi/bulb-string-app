@@ -28,7 +28,7 @@ The application includes the following utilities:
 ### Prerequisites
 
 - .NET 9.0 SDK or later
-- Any code editor (Visual Studio, Visual Studio Code, JetBrains Rider, etc.)
+- Any C#-enabled code editor (Visual Studio, Visual Studio Code, JetBrains Rider, etc.)
 
 ### Installation
 
